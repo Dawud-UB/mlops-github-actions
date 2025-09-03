@@ -1,4 +1,3 @@
-# src/test_model.py
 import joblib
 import os
 
