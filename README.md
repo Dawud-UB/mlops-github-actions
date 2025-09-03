@@ -52,7 +52,7 @@ The `test_model.py` script:
 - Checks the model can make predictions  
 
 ### 3. Workflow (ci.yml)
-Example workflow steps:
+Workflow steps:
 ```yml
 - Checkout repository
 - Setup Python environment
