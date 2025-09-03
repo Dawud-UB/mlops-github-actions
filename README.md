@@ -22,7 +22,7 @@ runs unit tests, and delivers the trained model (`model.pkl`) together with trai
 
 ## 📂 Repository Structure
 
-mlops-github-actions/
+```mlops-github-actions/
 │
 ├── src/
 │ ├── train.py # Training script (Breast Cancer dataset)
