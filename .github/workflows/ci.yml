@@ -1,4 +1,5 @@
 name: ML CI/CD Workflow
+run-name: CI/CD Breast Cancer ML Pipeline
 
 on:
   push:
