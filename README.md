@@ -1,4 +1,4 @@
-# CI/CD Workflow for ML with GitHub Actions
+# CI/CD Workflow for MLOps with GitHub Actions
 
 This repository demonstrates a **simple CI/CD pipeline for Machine Learning** using GitHub Actions.  
 The example trains a **Logistic Regression model** on the Breast Cancer dataset from scikit-learn,  
